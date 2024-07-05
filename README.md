@@ -1,5 +1,5 @@
-# Himanshu-portfolio
-## Portfolio-Website
+
+##Himanshu- Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 
@@ -14,11 +14,11 @@ Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
 # OUTPUT - 1
-![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![Screenshot 2024-07-05 102530](https://github.com/webHimanshusingh/Himanshu-portfolio/assets/170223793/f6bbf9b2-7935-4538-995a-1ab2cd06dd37)
 # OUTPUT - 2
-![Screenshot 2024-06-29 175355](https://github.com/webHimanshusingh/Himanshu-portfolio/assets/170223793/c5932a38-03c4-4a00-b336-c85f2e1ff7e9)
+![Screenshot 2024-07-05 102544](https://github.com/webHimanshusingh/Himanshu-portfolio/assets/170223793/3aff73b6-3260-421a-b38f-4916ca0533cb)
 # OUTPUT - 3
-![Screenshot 2024-06-29 175412](https://github.com/webHimanshusingh/Himanshu-portfolio/assets/170223793/2734070a-92fe-45d6-aafd-ddf71065ebf6)
+![Screenshot 2024-07-05 102600](https://github.com/webHimanshusingh/Himanshu-portfolio/assets/170223793/82c580cf-93f3-4561-82af-dcb4aeba8072)
 
 
 <h2>📬 Contact</h2>
